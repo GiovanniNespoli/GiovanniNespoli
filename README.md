@@ -6,6 +6,8 @@ Sou um estudante que busca conhecimento na área de DEV (desenvolvemento de sist
 
 Atualmente estudante do curso de desenvolvimento de sistemas da escola técnica SENAI 132 🏫🏫
 
+
+
 Principais linguagens: 
 
 
