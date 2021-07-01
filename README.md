@@ -17,6 +17,7 @@ FrontEnd:
 
 (JSReact, JSReact Native, Asp Net Core)
 
+----------------------------------------------------------------------
 
 BackEnd:
 
@@ -24,6 +25,7 @@ BackEnd:
 
 (API, API Rest, API RestFul, POO, JWT)
 
+----------------------------------------------------------------------
 
 Banco de Dados:
 
@@ -31,6 +33,7 @@ Banco de Dados:
 
 (DDL, DML, DQL Scripts)
 
+----------------------------------------------------------------------
 
 Mais informações:
 
