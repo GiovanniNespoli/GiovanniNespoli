@@ -10,11 +10,13 @@ Atualmente estudante do curso de desenvolvimento de sistemas da escola técnica 
 
 ### Principais linguagens: 
 
+
 FrontEnd: 
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 (JSReact, JSReact Native, Asp Net Core)
+
 
 BackEnd:
 
@@ -22,11 +24,13 @@ BackEnd:
 
 (API, API Rest, API RestFul, POO, JWT)
 
+
 Banco de Dados:
 
 ![image](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 (DDL, DML, DQL Scripts)
+
 
 Mais informações:
 
