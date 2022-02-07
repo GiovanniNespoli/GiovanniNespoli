@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/GiovanniNespoli)
 
-Sou um estudante que busca conhecimento na área de DEV (desenvolvemento de sistema) e de ADS (Analista e desenvolvimento de sistema) ✨✨
+Sou um estudante que busca conhecimento na área de DEV (desenvolvimento de sistema) e de ADS (Analista e desenvolvimento de sistema) ✨✨
 
 Formado em desenvolvimento de sistemas da escola técnica SENAI 132 e atualmente cursando ensino superior de ADS na escola SENAI Armando de Arruda Pereira 🏫🏫
 
