@@ -37,8 +37,6 @@ Banco de Dados:
 
 Mais informações:
 
-	https://github-readme-stats.vercel.app/api/top-langs/?username={GiovanniNespoli}
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-nespoli-4b6568216/)
 
 Email: ggnespoli@gmail.com
