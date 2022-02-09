@@ -25,6 +25,8 @@ BackEnd:
 
 (API, API Rest, POO, JWT, ASP.NET Core)
 
+![image](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ----------------------------------------------------------------------
 
 Banco de Dados:
