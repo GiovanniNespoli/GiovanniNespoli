@@ -7,6 +7,10 @@
 <br>
 
 <p>
-  Prazer, sou Giovanni Nespoli 
+  "Em algum lugar, alguma coisa incrível está esperando para ser descoberta."
+
+  Carl Sagan (1934 - 1996)
+
+  Visando essas palavras são as que eu uso na área de TI, quando algo desperta a minha curiosidade me dedico ao máximo que der para aprender e utilizar no meu meio de     trabalho 
 </p>
 
