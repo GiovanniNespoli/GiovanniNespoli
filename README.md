@@ -20,5 +20,5 @@
   <strong>Formações : </strong>
 </p>
 
-<img src="https://www.facebook.com/senaimanutencao/photos/a.250939044991816/4027252054027144/" min-width="100px" max-width="100px" width="100px" align="left"/>
+<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/192215484_4027252060693810_3399392308443053424_n.png?stp=dst-png_p960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=jGjIfAUUVxYAX_-DoT4&_nc_ht=scontent-gru2-2.xx&oh=00_AT-ypA4bmNCziirHfZbdKCbBMnFek4scrivUSM_-4V-S3A&oe=62DCD35B" min-width="100px" max-width="100px" width="100px" align="left"/>
 
