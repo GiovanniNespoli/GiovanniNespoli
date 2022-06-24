@@ -80,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img max-width="200px" min-width="200px widht="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniNespoli&theme=vue" />
+  <img max-width="200px" min-width="200px" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniNespoli&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniNespoli" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniNespoli" />
 </div
