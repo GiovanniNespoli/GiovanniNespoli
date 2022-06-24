@@ -17,6 +17,6 @@
 ---
 
 <p>
-  
+  <strong>Formações : </strong>
 </p>
 
