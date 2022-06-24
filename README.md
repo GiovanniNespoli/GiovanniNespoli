@@ -39,7 +39,7 @@
 ---
 
 <p>
-  <strong>Linguagens e Frameworks dominados : </strong>
+  <strong>👨‍💻 Linguagens : 👨‍💻 </strong>
 </p>
 
 <br>
