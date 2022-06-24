@@ -80,6 +80,6 @@
 </div>
 
 <div>
-  <img align="left" max-width="500px" min-width="400px" width="500px" src="https://github-readme-stats.vercel.app/api?username=GiovanniNespoli" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniNespoli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniNespoli" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniNespoli" />
 </div
