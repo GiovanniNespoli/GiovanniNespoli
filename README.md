@@ -34,8 +34,10 @@
   Inglês intermediário / avançado
 </p>
 
+<br>
+
 ---
 
 <p>
-  <strong>Linguagens dominadas</strong>
+  <strong>Linguagens dominadas : </strong>
 </p>
