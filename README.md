@@ -82,4 +82,5 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniNespoli&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniNespoli" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniNespoli" />
 </div
