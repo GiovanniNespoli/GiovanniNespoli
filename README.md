@@ -29,4 +29,6 @@
   Tecnólogo em Análise e desenvolvimento de sistemas
 </p>
 <img src="https://s3.static.brasilescola.uol.com.br/be/conteudo/images/estados-unidos.jpg" min-width="70px" max-width="70px" width="70px" height="65px"/>
-
+<p>
+  Inglês intermediário / avançado
+</p>
