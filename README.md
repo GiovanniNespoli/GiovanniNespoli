@@ -20,7 +20,7 @@
   <strong>Formações : </strong>
 </p>
 
-<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/192215484_4027252060693810_3399392308443053424_n.png?stp=dst-png_p960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=jGjIfAUUVxYAX_-DoT4&_nc_ht=scontent-gru2-2.xx&oh=00_AT-ypA4bmNCziirHfZbdKCbBMnFek4scrivUSM_-4V-S3A&oe=62DCD35B" min-width="70px" max-width="70px" width="70px" height="60px" align="left"/>
+<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/192215484_4027252060693810_3399392308443053424_n.png?stp=dst-png_p960x960&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=jGjIfAUUVxYAX_-DoT4&_nc_ht=scontent-gru2-2.xx&oh=00_AT-ypA4bmNCziirHfZbdKCbBMnFek4scrivUSM_-4V-S3A&oe=62DCD35B" min-width="70px" max-width="70px" width="70px" height="65px" align="left"/>
 
 <p>
   Técnico em desenvolvimento de sistemas
