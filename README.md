@@ -39,5 +39,5 @@
 ---
 
 <p>
-  <strong>Linguagens dominadas : </strong>
+  <strong>Linguagens e Frameworks dominados : </strong>
 </p>
