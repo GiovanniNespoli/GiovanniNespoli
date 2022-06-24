@@ -28,7 +28,7 @@
 <p>
   Tecnólogo em Análise e desenvolvimento de sistemas
 </p>
-<img src="https://s3.static.brasilescola.uol.com.br/be/conteudo/images/estados-unidos.jpg" align="left" min-width="70px" max-width="70px" width="70px" height="65px"/>
+<img src="https://www.cidademarketing.com.br/marketing/wp-content/uploads/2019/02/marca_fisk-640x640.png" align="left" min-width="70px" max-width="70px" width="70px" height="65px"/>
 <br>
 <p>
   Inglês intermediário / avançado
