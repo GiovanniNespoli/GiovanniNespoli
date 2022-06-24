@@ -34,8 +34,6 @@
   Inglês intermediário / avançado
 </p>
 
-<br>
-
 ---
 
 <p>
