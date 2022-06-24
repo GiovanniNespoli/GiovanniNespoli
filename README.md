@@ -25,7 +25,6 @@
 <p>
   Técnico em desenvolvimento de sistemas
 <p>
-<br>
 <p>
   Tecnólogo em Análise e desenvolvimento de sistemas
 </p>
