@@ -76,6 +76,6 @@
 ---
 
 <div align="center">
-  <p><strong> Status do GitHub : </strong></p>
+  <p><strong>📈 Status do GitHub : 📈</strong></p>
 </div>
 
