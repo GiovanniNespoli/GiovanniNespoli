@@ -20,5 +20,5 @@
   <strong>Formações : </strong>
 </p>
 
-<img src="https://www.facebook.com/senai.aluminio/" min-width="100px" max-width="100px" align="left"/>
+<img src="https://www.facebook.com/senai.aluminio/" min-width="100px" max-width="100px" width="100px" align="left"/>
 
